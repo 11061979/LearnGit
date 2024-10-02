@@ -7,6 +7,8 @@ public class Streem {
 	public static void main(String[] args) {
 		// testgit
 		System.out.println("jjjjj");
+		System.out.println("rrrr");
+
 
 	}
 
