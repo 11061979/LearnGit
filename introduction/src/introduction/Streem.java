@@ -8,6 +8,8 @@ public class Streem {
 		// testgit
 		System.out.println("jjjjj");
 		System.out.println("rrrr");
+		System.out.println("aaaa");
+
 
 
 	}
