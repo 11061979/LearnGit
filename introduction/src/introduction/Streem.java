@@ -9,6 +9,8 @@ public class Streem {
 		System.out.println("jjjjj");
 		System.out.println("rrrr");
 		System.out.println("aaaa");
+		System.out.println("lllll");
+
 
 
 
