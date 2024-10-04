@@ -12,6 +12,9 @@ public class Streem {
 		System.out.println("lllll");
 		System.out.println("uuuuu");
 		System.out.println("66666");
+		
+		System.out.println("77777");
+
 
 
 
