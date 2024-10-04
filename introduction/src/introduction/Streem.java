@@ -18,6 +18,7 @@ public class Streem {
 		System.out.println("00000");
 		System.out.println("565656");
 		System.out.println("44444");
+		System.out.println("232323");
 
 
 
