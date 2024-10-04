@@ -14,6 +14,7 @@ public class Streem {
 		System.out.println("66666");
 		
 		System.out.println("77777");
+		System.out.println("9999");
 
 
 
